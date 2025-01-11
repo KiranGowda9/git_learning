@@ -1,1 +1,3 @@
-# git_learning
+# Git learning Project
+
+This repo is only meant for learning 
